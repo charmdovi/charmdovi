@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 </br>
 </br>
 ### Hi 👋 
+(주)엔코아 데이터 주관 플레이데이터 데이터 엔지니어링 부트캠프(23.03.27~23.09.20)<br>
+(국비지원 빅데이터 기반 지능형SW 및 MLOps 개발자 양성과정) 
 </br>
 
-# These are the tech stacks I'm currently learning🌱
+### These are the tech stacks I'm currently learning🌱
 
 Languages
 <div align="left">
