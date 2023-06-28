@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **charmdovi/charmdovi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=F4D47B&height=120&section=header&text=charmdovi%20portfolio&fontSize=70&fontColor=d6ace6)
+</br>
+</br>
+### Hi 👋 
+</br>
+
+# These are the tech stacks I'm currently learning🌱
+
+Languages
+<div align="left">
+	<img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Python&logoColor=white" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+</div>
+</br>
+
+Tool
+<div align="left">
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+  <img src="https://img.shields.io/badge/VisualStudiocode-007ACC?style=flat&logo=VisualStudiocode&logoColor=white" />
+</div>
+</br>
