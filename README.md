@@ -16,12 +16,13 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=F4D47B&height=120&section=header&text=charmdovi%20portfolio&fontSize=70&fontColor=d6ace6)
 </br>
 </br>
-### Hi 👋 
-(주)엔코아 데이터 주관 플레이데이터 데이터 엔지니어링 부트캠프(23.03.27~23.09.20)<br>
+### Hi👋 
+(23.03.27~23.09.20)
+(주)엔코아 데이터 주관 플레이데이터 데이터 엔지니어링 부트캠프 진행 중<br>
 (국비지원 빅데이터 기반 지능형SW 및 MLOps 개발자 양성과정) 
 </br>
 
-### These are the tech stacks I'm currently learning🌱
+### 채워나가는 기술 스텍(I’m currently learning)🌱
 
 Languages
 <div align="left">
